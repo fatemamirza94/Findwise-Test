@@ -18,3 +18,6 @@ on the folder in the eclipse Package explorer and going to properties from where
   3. When prompted, enter the location of the documents folder - the test-doc folder
   4. When prompted, enter the word to search or query. For this particular scenario, check with brown or fox
   5. View the output in the console. brown will give output of document 1 and 2, and fox will give output of document 1 and 3.
+  
+![brown](https://user-images.githubusercontent.com/38617724/152680357-4b9e233b-c3ea-43d6-b5c0-966d76e3e2d7.PNG)
+![fox](https://user-images.githubusercontent.com/38617724/152680362-f9abf156-b9e8-4d9c-8a82-7f7a6ad414ac.PNG)
